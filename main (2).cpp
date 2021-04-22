@@ -97,5 +97,3 @@ int main()
     cout<<"La banca ha acabado con "<<banca<<" euros";
     return 0;
 }
-
-
